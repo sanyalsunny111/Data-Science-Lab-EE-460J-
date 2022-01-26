@@ -1,5 +1,5 @@
 # Data-Science-Lab-EE-460J
-This repository contians the teaching materials created by Sunny as a teaching assistant for Data Science Lab (EE 460J) course taught by Prof. Constantine Caramanis.
+This repository contians the teaching materials created by Sunny as a teaching assistant for Data Science Lab (EE 460J) course taught by Prof. Constantine Caramanis at the ECE department of UT Austin.
 
 
 # Tutorials
